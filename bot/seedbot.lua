@@ -229,7 +229,8 @@ function create_config( )
     "time",
     "plugins",
     "info",
-    "spamer"
+    "spamer",
+    "welcome"
     },
     sudo_users = {tonumber(115325465)},--Sudo users
     disabled_channels = {},
