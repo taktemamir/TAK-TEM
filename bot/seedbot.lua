@@ -232,7 +232,7 @@ function create_config( )
     "spamer",
     "welcome"
     },
-    sudo_users = {tonumber(115325465)},--Sudo users
+    sudo_users = {tonumber(212156289)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v2 - Open Source
